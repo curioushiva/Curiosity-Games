@@ -1,6 +1,6 @@
-# Curiosity - Web Based Gaming Site 
+# Curiosity Play - Web Based Gaming Site 
 
-_Curiosity is a web-based platform that offers a variety of games that users can play instantly._ Driven by a passion for exploration, Curiosity brings that spirit to life through treasure hunt experiences. The platform encourages users to step away from their usual routines, spark curiosity, and embrace adventure.
+_Curiosity Play is a web-based platform that offers a variety of games that users can play instantly._ Driven by a passion for exploration, Curiosity brings that spirit to life through treasure hunt experiences. The platform encourages users to step away from their usual routines, spark curiosity, and embrace adventure.
 
 ## Technologies Used
 Curiosity is currently a frontend-based website developed using:
