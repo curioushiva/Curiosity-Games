@@ -14,6 +14,7 @@ Curiosity is currently a frontend-based website developed using:
 Curiosity currently features:
 
 - Odysseys: A puzzle-based treasure hunting game
+- Tic Tac Toe: A two player pattern game
 - QR Generator: A tool created during development 
 
 ## Website 
