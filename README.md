@@ -11,7 +11,7 @@ Odyssey is currently a frontend-based website developed using:
 
 ## Website 
 
-You can access the website [Odyssey ](https://mycuriosity.netlify.app/odyssey/) from here 
+You can access the web game [Odyssey ](https://mycuriosity.netlify.app/odyssey/) from here 
   \
   \
 _Thank you for visiting. Have a great day :)_
