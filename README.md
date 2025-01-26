@@ -1,25 +1,17 @@
-# Curiosity Play - Web Based Gaming Site 
+# Odyssey 
 
-_Curiosity Play is a web-based platform that offers a variety of games that users can play instantly._ Driven by a passion for exploration, Curiosity brings that spirit to life through treasure hunt experiences. The platform encourages users to step away from their usual routines, spark curiosity, and embrace adventure.
+_Odyssey is a web-based treasure hunting game that users can play instantly._ Driven by a passion for exploration, Curiosity brings this spirit to life through immersive treasure hunt experiences. The platform encourages users to break away from their daily routines, ignite their curiosity, and embrace the thrill of adventure
 
 ## Technologies Used
-Curiosity is currently a frontend-based website developed using:
+Odyssey is currently a frontend-based website developed using:
 
 - Html
 - CSS
 - Javascript
 
-## Available Games
-
-Curiosity currently features:
-
-- Odysseys: A puzzle-based treasure hunting game
-- Tic Tac Toe: A two player pattern game
-- QR Generator: A tool created during development 
-
 ## Website 
 
-You can access the website [Curiosity - Games ](https://www.curiosityplay.in/) from here 
+You can access the website [Curiosity - Games ](https://mycuriosity.netlify.app/odyssey/) from here 
   \
   \
 _Thank you for visiting. Have a great day :)_
